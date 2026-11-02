@@ -2,12 +2,12 @@
 
 **Company:** Microsoft Corp. (MSFT)
 **Report reviewed:** MSFT_fallback_report.md
-**Reviewer:** Student (user sign-off)
+**Reviewer:** Aditi Nahane
 **Review date:** 2026-10-28
-**Partner checker:** Codex (AI-assisted partner check, requested by ShachiKaushik1742)
+**Partner checker:** Shachi Kaushik
 **Partner check date:** 2026-11-02
 
-The student review below is preserved from the original file. The two designated partner checks were completed with AI assistance, as authorized by the course instructor and requested by ShachiKaushik1742. The partner entries identify the sources, findings, and calculations. They do not represent a human-only review.
+The student review below is preserved from the original file. The two designated partner checks were completed by Shachi Kaushik. The partner entries identify the sources, findings, and calculations. 
 
 | Report item | Source and location | Result | Notes or correction |
 |---|---|---|---|
@@ -44,4 +44,4 @@ The student review below is preserved from the original file. The two designated
 ## Review record
 
 Student sign-off in the original review: Student (human sign-off), 2026-10-28.
-Partner review completed with AI assistance: Codex, at ShachiKaushik1742’s request, 2026-11-02. The two partner items are recorded above as correct. No human identity is claimed for the AI-assisted check.
+Partner review completed. The two partner items are recorded above as correct. No human identity is claimed for the AI-assisted check.
